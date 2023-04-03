@@ -1,0 +1,22 @@
+{
+  "name": "miniprojet2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imenbedoui/json-server.git"
+  },
+  "keywords": [
+    "imenbedoui"
+  ],
+  "author": "imenbedoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imenbedoui/json-server/issues"
+  },
+  "homepage": "https://github.com/imenbedoui/json-server#readme"
+}
