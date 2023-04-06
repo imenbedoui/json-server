@@ -9,7 +9,7 @@ const server = http.createServer((req,res)=>{
     res.write('hello\n')
     res.write('bedoui')
 
-    res.end()
+    res.end('done')
 })
 
 server.listen(5000,()=>{

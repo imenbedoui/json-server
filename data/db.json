@@ -1,6 +1,6 @@
 [
   {
-    "account": 
+    "accounts": 
     [
       {
         "id": "",
@@ -21,15 +21,6 @@
         "name": "",
         "price":"",
         "available_quantity":""
-      } 
-    ]
-  },
-  {
-    "lineitem": 
-    [
-      {
-        "quantity": "",
-        "price":""
       } 
     ]
   },
@@ -63,7 +54,7 @@
     ] 
   },
   {
-    "order_satatus": 
+    "order_status": 
     [
       {
         "order_id": "",
